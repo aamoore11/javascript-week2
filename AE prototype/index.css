@@ -239,7 +239,7 @@ p{
     
 }
 
-#form, #text, #email, #body{
+#form, #subject, #email, #body{
     border:2px solid #523217;
     padding: 10px;
     margin: 5px;
